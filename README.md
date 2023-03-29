@@ -3,4 +3,4 @@ A toy HTML website for showcasing recipes.
 
 
 
-live website : file:///Users/erenvatansever/Desktop/odin-recipes/index.html
+live website : https://erenvatansever03.github.io/odin-recipes/
